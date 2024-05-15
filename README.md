@@ -1,6 +1,8 @@
 ## School News Website
 
-A website I made for highschool to post announcements and news, used for a year
+This was a website I made for highschool to post announcements and news, with the posts being stored in MongoDB
+It had a user authentication system, with login information being stored in MongoDB.
+Front end was built with Javascript and HTML/CSS with Bootstrap framework.
 
 # Technologies Used
 
